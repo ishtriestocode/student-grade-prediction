@@ -1,4 +1,4 @@
-Student Grade Prediction
+Student Grade Prediction Project
 
 Welcome to the Student Grade Prediction project repository! This project aims to predict students' grades using machine learning techniques.
 
